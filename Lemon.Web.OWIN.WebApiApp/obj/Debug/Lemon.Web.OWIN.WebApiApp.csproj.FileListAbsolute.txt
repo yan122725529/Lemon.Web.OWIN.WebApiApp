@@ -112,8 +112,6 @@ F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.Integration.Owin.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.Integration.WebApi.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.Integration.WebApi.Owin.dll
-F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Lemon.Web.DemoController.dll
-F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Lemon.Web.TestController.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Microsoft.AI.Agent.Intercept.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Microsoft.AI.DependencyCollector.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -132,8 +130,6 @@ F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\System.Web.Cors.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\System.Web.Http.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\System.Web.Http.Owin.dll
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\System.Web.Http.WebHost.dll
-F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Lemon.Web.DemoController.pdb
-F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Lemon.Web.TestController.pdb
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.xml
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.Integration.Owin.xml
 F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.OWIN.WebApiApp\bin\Autofac.Integration.WebApi.xml

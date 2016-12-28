@@ -164,6 +164,7 @@
     <Compile Include="App_Start\ServiceConfig.cs" />
     <Compile Include="Controllers\ErrorController.cs" />
     <Compile Include="Controllers\TestController.cs" />
+    <Compile Include="IControllerRegister.cs" />
     <Compile Include="Models\ErrorInfoModel.cs" />
     <Compile Include="Models\HttpRequestModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -184,16 +185,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Lemon.Web.DemoController\Lemon.Web.DemoController.csproj">
-      <Project>{8217346a-f4b3-47cb-951d-479f7897789e}</Project>
-      <Name>Lemon.Web.DemoController</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Lemon.Web.TestController\Lemon.Web.TestController.csproj">
-      <Project>{2195421a-be1b-4dea-b55d-dab3831cb878}</Project>
-      <Name>Lemon.Web.TestController</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
