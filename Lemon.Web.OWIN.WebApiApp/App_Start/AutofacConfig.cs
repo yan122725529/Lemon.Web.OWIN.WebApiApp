@@ -24,7 +24,7 @@ namespace Lemon.Web.OWIN.WebApiApp
         {
             var builder = new ContainerBuilder();
             //api注册
-            builder.RegisterApiControllers(Assembly.Load("Lemon.Web.DemoController"));
+            builder.RegisterApiControllers(controllerAssemblies);
             //其他组件注册
             //builder.(Assembly.Load("Lemon.Web.DemoController"));
 

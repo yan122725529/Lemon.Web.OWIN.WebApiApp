@@ -26,8 +26,8 @@ namespace Lemon.Web.OWIN.WebApiApp
             //Assembly.GetExecutingAssembly(), 
             //, Assembly.Load("Lemon.Web.TestController")
 
-            var ass = Assembly.Load("Lemon.Web.DemoController");
-            AutofacConfig.Configure(configuration, ass);
+          
+            AutofacConfig.Configure(configuration, Assembly.Load("Lemon.Web.DemoController"), Assembly.Load("Lemon.Web.TestController"),Assembly.GetExecutingAssembly());
             app.UseAutofacMiddleware(AutofacConfig.Container);
             FormatterConfig.Configure(configuration);
             RouteConfig.Configure(configuration);

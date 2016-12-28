@@ -23,3 +23,15 @@ G:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\zh-Hans\System.Ne
 G:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\zh-Hans\System.Web.Http.resources.dll
 G:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\obj\Debug\Lemon.Web.DemoController.dll
 G:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\obj\Debug\Lemon.Web.DemoController.pdb
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\Lemon.Web.DemoController.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\Lemon.Web.DemoController.pdb
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\Newtonsoft.Json.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\System.Net.Http.Formatting.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\System.Web.Http.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\Newtonsoft.Json.xml
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\System.Net.Http.Formatting.xml
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\System.Web.Http.xml
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\obj\Debug\Lemon.Web.DemoController.dll
+F:\Lemon.Web.OWIN.WebApiApp\Lemon.Web.DemoController\obj\Debug\Lemon.Web.DemoController.pdb

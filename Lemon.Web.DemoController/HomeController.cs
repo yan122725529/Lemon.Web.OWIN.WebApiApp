@@ -4,7 +4,7 @@ using System.Web.Http;
 namespace Lemon.Web.DemoController
 {
     [RoutePrefix("Api/DemoHome")]
-    public class HomeController : ApiController
+    public class LemonController : ApiController
     {
         [HttpGet]
         [Route("Index")]
